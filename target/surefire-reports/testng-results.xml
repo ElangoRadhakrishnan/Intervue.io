@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-13T15:41:02 IST" name="Surefire suite" finished-at="2025-04-13T15:41:44 IST" duration-ms="41297">
+    <groups>
+    </groups>
+    <test started-at="2025-04-13T15:41:02 IST" name="Surefire test" finished-at="2025-04-13T15:41:44 IST" duration-ms="41297">
+      <class name="com.lao.Interview.Login">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.lao.Interview.Login@2f112965]" started-at="2025-04-13T15:41:03 IST" name="setUp" finished-at="2025-04-13T15:41:13 IST" duration-ms="10204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoggingIntoApplication()[pri:0, instance:com.lao.Interview.Login@2f112965]" started-at="2025-04-13T15:41:13 IST" name="testLoggingIntoApplication" finished-at="2025-04-13T15:41:43 IST" duration-ms="30479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoggingIntoApplication -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lao.Interview.Login@2f112965]" started-at="2025-04-13T15:41:43 IST" name="tearDown" finished-at="2025-04-13T15:41:44 IST" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lao.Interview.Login -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
